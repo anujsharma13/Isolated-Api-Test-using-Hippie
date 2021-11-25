@@ -1,0 +1,11 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "hippie": "^0.6.1"
+  }
+}
